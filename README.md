@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 
-[![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mgsystemsdev.github.io)
+[![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mga210.github.io/miguel-gonzalez-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mgsystemsdev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-gonzalez-8a389791)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mg.systems.dev@gmail.com)
@@ -51,7 +51,7 @@ Designed and deployed a GPT-4o-powered operations platform (**57-table PostgreSQ
 → Owned product definition (21 features, 10 domains, 12 API contracts), data model, and database foundation
 → Built the proof of concept; partner owned AWS infrastructure
 
-> Repositories for these systems are private. Case studies, architecture write-ups, and a demo on synthetic data: [mgsystemsdev.github.io](https://mgsystemsdev.github.io)
+> Repositories for these systems are private. Case studies, architecture write-ups, and a demo on synthetic data: [mga210.github.io/miguel-gonzalez-portfolio](https://mga210.github.io/miguel-gonzalez-portfolio/)
 
 ---
 
